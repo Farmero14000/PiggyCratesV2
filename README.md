@@ -1,4 +1,4 @@
-# PiggyCrates
+# PiggyCratesV2
 
 PiggyCrates is a simple and customizable crates plugin, supporting an unlimited amount of crate types. It also supports
 vanilla and custom enchants, such as [PiggyCustomEnchants](https://github.com/DaPigGuy/PiggyCustomEnchants/).
@@ -6,7 +6,7 @@ vanilla and custom enchants, such as [PiggyCustomEnchants](https://github.com/Da
 ## Prerequisites
 
 * Basic knowledge on how to install plugins from Poggit Releases and/or Poggit CI
-* PMMP 4.0.0+
+* PMMP 5.0.0+
 
 ## Installation & Setup
 
