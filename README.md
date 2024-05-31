@@ -1,3 +1,5 @@
+# PiggyCrates
+
 PiggyCrates is a simple and customizable crates plugin, supporting an unlimited amount of crate types. It also supports
 vanilla and custom enchants, such as [PiggyCustomEnchants](https://github.com/DaPigGuy/PiggyCustomEnchants/).
 
