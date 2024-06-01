@@ -7,7 +7,7 @@ namespace DaPigGuy\PiggyCrates;
 use CortexPE\Commando\BaseCommand;
 use CortexPE\Commando\exception\HookAlreadyRegistered;
 use CortexPE\Commando\PacketHooker;
-use libs\DaPigGuy\libPiggyUpdateChecker\libPiggyUpdateChecker;
+use DaPigGuy\libPiggyUpdateChecker\libPiggyUpdateChecker;
 use DaPigGuy\PiggyCrates\commands\CrateCommand;
 use DaPigGuy\PiggyCrates\commands\KeyAllCommand;
 use DaPigGuy\PiggyCrates\commands\KeyCommand;
